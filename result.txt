@@ -1,0 +1,16 @@
+Iniciando processamento com 1 Thread(s) ...
+Rodando 1 vez Tempo: 23.460433959960938 sec
+Rodando 2 vez Tempo: 24.557165145874023 sec
+Rodando 3 vez Tempo: 24.8714439868927 sec
+Rodando 4 vez Tempo: 23.799183130264282 sec
+Rodando 5 vez Tempo: 24.372343063354492 sec
+Tempo médio:  24.212113857269287 sec
+
+
+Iniciando processamento com 8 Thread(s) ...
+Rodando 1 vez Tempo: 7.486531019210815 sec
+Rodando 2 vez Tempo: 6.678941965103149 sec
+Rodando 3 vez Tempo: 6.888972997665405 sec
+Rodando 4 vez Tempo: 6.86550498008728 sec
+Rodando 5 vez Tempo: 6.7630767822265625 sec
+Tempo médio:  6.936605548858642 sec
