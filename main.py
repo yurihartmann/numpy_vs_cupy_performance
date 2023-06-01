@@ -25,6 +25,6 @@ for i in range(5):
 
     end = time.time()
     times.append(end - start)
-    print(f'Rodando {i+1} vez Tempo: {end - start} sec')
+    print(f'Rodando {i + 1} vez Tempo: {(end - start) * 1000} miliseconds')
 
-print("Tempo médio: ", average(times), "sec")
+print("Tempo médio: ", average(times) * 1000, "miliseconds")
