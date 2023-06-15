@@ -2,7 +2,7 @@ import os
 import time
 from numpy.random import rand
 
-print(f"Iniciando processamento com {os.getenv('OMP_NUM_THREADS')} Thread(s) ...")
+print(f"Iniciando processamento com {os.getenv('OMP_NUM_THREADS')} CPU(s) ...")
 
 times = []
 
