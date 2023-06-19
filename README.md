@@ -11,15 +11,14 @@ CPU vs GPU performance
 
 1 - `pip install poetry`
 
-1 - `poetry install`
+2 - `poetry install`
 
-2 - `poetry shell`
+3 - `poetry shell`
 
-3 - `chmod +x run_cpu.sh run_gpu.sh`
+4 - `chmod +x run_cpu.sh`
 
-4 - `./run_cpu.sh`
+5 - `./run_cpu.sh`
 
-4 - `./run_gpu.sh`
 
 
 ### Problemas com instalacao do cupy:
